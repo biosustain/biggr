@@ -20,3 +20,4 @@ python setup.py install
 
 ## Usage
 Python notebooks with example usages are available in the `notebooks` directory.
+Documentation is available [here](https://biosustain.github.io/biggr).
