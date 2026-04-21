@@ -7,15 +7,15 @@ useful: directly in your python script, application, or cobrapy project.
 This project is still very incomplete and only provides some basic functionality.
 
 ## Installing
-The library is only available through GitHub for now.
-* Clone this repository
-* Install the requirements using:
+The library is only available through GitHub for now. Install it directly with pip:
 ```
-pip install -r requirements.txt
+pip install git+https://github.com/pascalaldo/biggr.git
 ```
-* Install the library using:
+Or clone and install locally:
 ```
-python setup.py install
+git clone https://github.com/pascalaldo/biggr.git
+cd biggr
+pip install .
 ```
 
 ## Usage
